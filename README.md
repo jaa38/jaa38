@@ -24,7 +24,7 @@ My background in product design helps me approach development with a strong focu
 ## Connect
 
 - [Portfolio](https://sites.google.com/view/jeremiahakin/home)
-- [LinkedIn](https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/in/jeremiahakinsowon)
 - [GitHub](https://github.com/jaa38)
 
 I am interested in building reliable, accessible products and growing as a frontend and mobile software engineer.
