@@ -4,27 +4,57 @@
 
 I build cross-platform mobile applications and web experiences, combining product thinking, user-centred design, and software engineering.
 
-My background in product design helps me approach development with a strong focus on usability, accessibility, and maintainable interfaces. I am currently building React Native applications using Expo, TypeScript, modern state management, and backend integrations.
+With a background in product design, I focus on building accessible, intuitive, and maintainable interfaces. I'm currently developing React Native applications using Expo, TypeScript, modern state management, and backend integrations.
 
-## Featured Projects
+## 🚀 Featured Projects
 
-- **[XpressStore Mobile](https://github.com/jaa38/xpressstore-app)** — Merchant commerce and payments application.
-- **[PayXpress Mobile](https://github.com/jaa38/payxpress-mobile)** — Fintech application with authentication, storage, and application architecture foundations.
-- **[TRAINR](https://github.com/jaa38/trainr)** — Fitness platform connecting gym-goers with personal trainers.
-- **[BBC News App Assessment](https://github.com/jaa38/bbc-assessment)** — React Native news application demonstrating typed navigation, API integration, accessibility, and testing.
+### XpressStore Mobile
+A merchant commerce and payments application featuring transaction management, product catalogues, orders, receipts, and storefront management.
 
-## Technologies
+**Tech:** React Native · Expo · TypeScript · TanStack Query · Zustand
 
-**Mobile:** React Native, Expo, TypeScript  
-**Frontend:** React, JavaScript, HTML, CSS  
-**Data & State:** TanStack Query, Zustand  
-**Backend & Storage:** Supabase, REST APIs, SQLite, MMKV, SecureStore  
-**Quality:** Jest, React Native Testing Library, ESLint, Prettier, TypeScript
+[View Repository](https://github.com/jaa38/xpressstore-app)
 
-## Connect
+### PayXpress Mobile
+A fintech mobile application with authentication, onboarding, application state management, and secure storage foundations.
 
-- [Portfolio](https://sites.google.com/view/jeremiahakin/home)
-- [LinkedIn](https://www.linkedin.com/in/jeremiahakinsowon)
-- [GitHub](https://github.com/jaa38)
+**Tech:** React Native · Expo · TypeScript · Zustand · TanStack Query
 
-I am interested in building reliable, accessible products and growing as a frontend and mobile software engineer.
+[View Repository](https://github.com/jaa38/payxpress-mobile)
+
+### TRAINR
+A fitness platform designed to connect gym-goers with personal trainers through onboarding, trainer discovery, and fitness-related experiences.
+
+**Tech:** React Native · Expo · TypeScript · Supabase · Jest
+
+[View Repository](https://github.com/jaa38/trainr)
+
+### BBC News App Assessment
+A React Native news application demonstrating API integration, typed navigation, reusable components, accessibility, and automated testing.
+
+**Tech:** React Native · TypeScript · Axios · Jest
+
+[View Repository](https://github.com/jaa38/bbc-assessment)
+
+## 🛠️ Technologies
+
+**Mobile Development:** React Native, Expo, TypeScript  
+**Frontend Development:** React, JavaScript, HTML, CSS  
+**State Management:** TanStack Query, Zustand  
+**Backend & Data:** Supabase, REST APIs, SQLite  
+**Testing & Quality:** Jest, React Native Testing Library, ESLint, Prettier
+
+## 🎯 Currently Focusing On
+
+- Building complete React Native applications and integrating backend services
+- Improving TypeScript, application architecture, and state management
+- Writing reliable component and feature tests
+- Preparing for frontend and React Native engineering technical assessments
+
+## 🤝 Connect With Me
+
+- **Portfolio:** [jeremiahakin](https://sites.google.com/view/jeremiahakin/home)
+- **GitHub:** [@jaa38](https://github.com/jaa38)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jeremiahakinsowon)
+
+I'm passionate about building reliable, accessible products and growing as a software engineer who combines strong product thinking with practical engineering skills.
