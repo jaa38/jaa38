@@ -8,26 +8,20 @@ With a background in product design, I focus on building accessible, intuitive, 
 
 ## 🚀 Featured Projects
 
-### XpressStore Mobile
+### Storefront Mobile
 A merchant commerce and payments application featuring transaction management, product catalogues, orders, receipts, and storefront management.
 
 **Tech:** React Native · Expo · TypeScript · TanStack Query · Zustand
 
-[View Repository](https://github.com/jaa38/xpressstore-app)
-
-### PayXpress Mobile
+### VAS Platform Mobile
 A fintech mobile application with authentication, onboarding, application state management, and secure storage foundations.
 
 **Tech:** React Native · Expo · TypeScript · Zustand · TanStack Query
-
-[View Repository](https://github.com/jaa38/payxpress-mobile)
 
 ### TRAINR
 A fitness platform designed to connect gym-goers with personal trainers through onboarding, trainer discovery, and fitness-related experiences.
 
 **Tech:** React Native · Expo · TypeScript · Supabase · Jest
-
-[View Repository](https://github.com/jaa38/trainr)
 
 ### BBC News App Assessment
 A React Native news application demonstrating API integration, typed navigation, reusable components, accessibility, and automated testing.
