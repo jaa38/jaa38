@@ -65,14 +65,6 @@ A fitness platform designed to connect gym-goers with personal trainers. The app
 
 [View TRAINR on GitHub](https://github.com/jaa38/trainr)
 
-### BBC News App Assessment
-
-A React Native news application developed as a technical assessment, demonstrating API integration, typed navigation, reusable components, accessibility and automated testing.
-
-**Technology:** React Native · TypeScript · Axios · Jest · React Native Testing Library
-
-*Assessment source code is kept private where required by the assessment terms. I can discuss the technical decisions and implementation approach during interviews.*
-
 ## 🛠️ Technical Skills
 
 **Mobile Development**
