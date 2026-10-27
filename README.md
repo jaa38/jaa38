@@ -114,7 +114,9 @@ A fitness platform designed to connect gym-goers with personal trainers. The app
 
 ## 🤝 Connect With Me
 
+- **Portfolio:** [jeremiahakin](https://sites.google.com/view/jeremiahakin/home)
 - **LinkedIn:** [Jeremiah Akinsowon](https://www.linkedin.com/in/jeremiahakinsowon)
+- **GitHub:** [@jaa38](https://github.com/jaa38)
 
 ---
 
