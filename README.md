@@ -2,61 +2,128 @@
 
 ### React Native & Frontend Engineer | TypeScript | Fintech
 
-I build cross-platform mobile applications and web experiences, combining product thinking, user-centred design, and software engineering.
+I build cross-platform mobile applications and web experiences using **React Native, React, TypeScript and modern frontend technologies**.
 
-With a background in product design, I focus on building accessible, intuitive, and maintainable interfaces. I'm currently developing React Native applications using Expo, TypeScript, modern state management, and backend integrations.
+With a background in product design and fintech, I combine user-centred thinking, accessible interfaces and practical software engineering. My focus is building reliable applications with maintainable components, thoughtful state management and well-tested features.
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
 
-### Storefront Mobile
-A merchant commerce and payments application featuring transaction management, product catalogues, orders, receipts, and storefront management.
+### Xpress Payments — Mobile & Web Application Development
 
-**Tech:** React Native · Expo · TypeScript · TanStack Query · Zustand
+Contribute to the development of fintech applications across mobile and web platforms, combining user-centred design with frontend engineering.
 
-iOS: (https://apps.apple.com/ng/app/xpressstore/id6748138632)
+### 📱 Mobile Applications
 
-Android: (https://play.google.com/store/apps/details?id=com.xpresspayments.xpresspaystorefront&hl=en)
+#### XpressStore — Merchant Commerce & Payments
 
-### VAS Platform Mobile
-A fintech mobile application with authentication, onboarding, application state management, and secure storage foundations.
+A mobile application for merchant commerce and payment-related operations.
 
-**Tech:** React Native · Expo · TypeScript · Zustand · TanStack Query
+- **Technology:** React Native · Expo · TypeScript
+- **Platforms:** [App Store](https://apps.apple.com/ng/app/xpressstore/id6748138632) · [Google Play](https://play.google.com/store/apps/details?id=com.xpresspayments.xpresspaystorefront)
 
-iOS: (https://apps.apple.com/ng/app/payxpress-app/id6749568873)
+#### PayXpress Mobile — Payments & Value-Added Services
 
-Android: (https://play.google.com/store/apps/details?id=com.xpresspayments.xpresspay&hl=en)
+A mobile application for payment-related and value-added services.
 
-### TRAINR
-A fitness platform designed to connect gym-goers with personal trainers through onboarding, trainer discovery, and fitness-related experiences.
+- **Technology:** React Native · Expo · TypeScript
+- **Platforms:** [App Store](https://apps.apple.com/ng/app/payxpress-app/id6749568873) · [Google Play](https://play.google.com/store/apps/details?id=com.xpresspayments.xpresspay)
 
-**Tech:** React Native · Expo · TypeScript · Supabase · Jest
+### 💻 Web Applications
+
+#### MyXpressPay — Payment Gateway
+
+A web-based payment gateway platform.
+
+- **Focus:** Web development and payment gateway user experiences.
+- **Website:** [myxpresspay.com](https://myxpresspay.com/)
+
+#### PayXpress Web — Payments Platform
+
+A web-based platform for payment-related services.
+
+- **Focus:** Frontend web development and payment user experiences.
+- **Website:** [payxpress.com](https://payxpress.com/)
+
+**Engineering areas:** Frontend UI development, API integration, transaction management, application state management, reusable components and user experience improvements.
+
+*These are Xpress Payments products. Source code, internal APIs and proprietary implementation details are not published in this portfolio.*
+
+## 🚀 Independent Projects
+
+### TRAINR — Fitness Platform
+
+A fitness platform designed to connect gym-goers with personal trainers. The application aims to support trainer discovery, fitness goals, workout planning and progress tracking.
+
+**Technology:** React Native · Expo · TypeScript · Expo Router · Supabase · Jest
+
+**Engineering focus:**
+- Reusable components and a shared design system
+- Light and dark theme support
+- Typed navigation and application structure
+- Component testing and code quality checks
+- Planned trainer discovery, onboarding and fitness workflows
+
+[View TRAINR on GitHub](https://github.com/jaa38/trainr)
 
 ### BBC News App Assessment
-A React Native news application demonstrating API integration, typed navigation, reusable components, accessibility, and automated testing.
 
-**Tech:** React Native · TypeScript · Axios · Jest
+A React Native news application developed as a technical assessment, demonstrating API integration, typed navigation, reusable components, accessibility and automated testing.
 
-[View Repository](https://github.com/jaa38/bbc-assessment)
+**Technology:** React Native · TypeScript · Axios · Jest · React Native Testing Library
 
-## 🛠️ Technologies
+*Assessment source code is kept private where required by the assessment terms. I can discuss the technical decisions and implementation approach during interviews.*
 
-**Mobile Development:** React Native, Expo, TypeScript  
-**Frontend Development:** React, JavaScript, HTML, CSS  
-**State Management:** TanStack Query, Zustand  
-**Backend & Data:** Supabase, REST APIs, SQLite  
-**Testing & Quality:** Jest, React Native Testing Library, ESLint, Prettier
+## 🛠️ Technical Skills
 
-## 🎯 Currently Focusing On
+**Mobile Development**
+- React Native
+- Expo
+- TypeScript
 
-- Building complete React Native applications and integrating backend services
-- Improving TypeScript, application architecture, and state management
-- Writing reliable component and feature tests
-- Preparing for frontend and React Native engineering technical assessments
+**Frontend Development**
+- React
+- JavaScript
+- HTML
+- CSS
+
+**State Management & Data**
+- Zustand
+- TanStack Query
+- REST API integration
+- SQLite
+
+**Backend**
+- Supabase
+
+**Testing & Code Quality**
+- Jest
+- React Native Testing Library
+- ESLint
+- Prettier
+
+**Tools**
+- Git
+- GitHub
+- Figma
+
+## 🎯 Current Focus
+
+- Building complete React Native applications with reliable API integration
+- Deepening my TypeScript, React and application architecture skills
+- Improving automated testing and code quality
+- Developing my React web engineering portfolio
+- Preparing for frontend and mobile engineering technical interviews
+
+## 🎓 Certifications
+
+- Meta React Native Specialisation
+- Meta Front-End Developer Professional Certificate
+- Google UX Design Professional Certificate
 
 ## 🤝 Connect With Me
 
-- **Portfolio:** [jeremiahakin](https://sites.google.com/view/jeremiahakin/home)
-- **GitHub:** [@jaa38](https://github.com/jaa38)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jeremiahakinsowon)
+- **LinkedIn:** [Jeremiah Akinsowon](https://www.linkedin.com/in/jeremiahakinsowon)
 
-I'm passionate about building reliable, accessible products and growing as a software engineer who combines strong product thinking with practical engineering skills.
+---
+
+I enjoy combining product thinking, design awareness and engineering to build useful, accessible and reliable digital experiences.
