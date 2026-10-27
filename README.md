@@ -12,14 +12,18 @@ With a background in product design, I focus on building accessible, intuitive, 
 A merchant commerce and payments application featuring transaction management, product catalogues, orders, receipts, and storefront management.
 
 **Tech:** React Native · Expo · TypeScript · TanStack Query · Zustand
+
 iOS: (https://apps.apple.com/ng/app/xpressstore/id6748138632)
+
 Android: (https://play.google.com/store/apps/details?id=com.xpresspayments.xpresspaystorefront&hl=en)
 
 ### VAS Platform Mobile
 A fintech mobile application with authentication, onboarding, application state management, and secure storage foundations.
 
 **Tech:** React Native · Expo · TypeScript · Zustand · TanStack Query
+
 iOS: (https://apps.apple.com/ng/app/payxpress-app/id6749568873)
+
 Android: (https://play.google.com/store/apps/details?id=com.xpresspayments.xpresspay&hl=en)
 
 ### TRAINR
